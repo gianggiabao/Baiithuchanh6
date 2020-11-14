@@ -1,0 +1,13 @@
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.csprojAssemblyReference.cache
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.csproj.CoreCompileInputs.cache
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.AssemblyInfoInputs.cache
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.AssemblyInfo.cs
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.exe
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.deps.json
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.runtimeconfig.json
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.runtimeconfig.dev.json
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.dll
+D:\Bài Thực Hành\BTH6\BTH6\bin\Debug\netcoreapp3.1\BTH6.pdb
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.dll
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.pdb
+D:\Bài Thực Hành\BTH6\BTH6\obj\Debug\netcoreapp3.1\BTH6.genruntimeconfig.cache
